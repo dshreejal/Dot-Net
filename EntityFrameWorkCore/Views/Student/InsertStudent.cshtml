@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model EntityFrameWorkCore.Models.AddStudent
+
+<div>
+    <button class="btn btn-primary btn-sm">
+        <a class="nav-link text-dark text-white" asp-area="" asp-controller="Student" asp-action="Index">
+            View students
+        </a>
+    </button>
+</div>
+<form action="InsertStudent" method="post">
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="mt-3">
+        <label class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="Name" /><br />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="mt-3">
+        <label class="form-label">Gender</label>
+        <input type="text" class="form-control" asp-for="Gender" /><br />
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="mt-3">
+        <label class="form-label">Address</label>
+        <input type="text" class="form-control" asp-for="Address" /><br />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="mt-3">
+        <label class="form-label">Faculty</label>
+        <input type="text" class="form-control" asp-for="Faculty" /><br />
+        <span asp-validation-for="Faculty" class="text-danger"></span>
+    </div>
+    <div class="mt-3">
+        <input type="submit" class="btn btn-primary" name="submit" value="Submit" />
+    </div>
+    
+</form>

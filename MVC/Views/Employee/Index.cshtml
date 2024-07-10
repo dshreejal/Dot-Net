@@ -1,0 +1,11 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    1. razor syntax is used to embed C# code on html script. to use razpr syntax @ symbol is used
+    2. it can be used anywhere in html script
+*@
+@using MVC.Models.EmployeeModel;
+<form method="post">
+    <label asp-for="Name">Enter your name:</label>
+    <input asp-for="Department" />
+    <button type="submit">Submit</button>
+</form>

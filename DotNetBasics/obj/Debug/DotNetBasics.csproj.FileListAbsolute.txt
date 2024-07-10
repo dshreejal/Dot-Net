@@ -1,0 +1,7 @@
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\bin\Debug\DotNetBasics.exe.config
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\bin\Debug\DotNetBasics.exe
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\bin\Debug\DotNetBasics.pdb
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\obj\Debug\DotNetBasics.csproj.AssemblyReference.cache
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\obj\Debug\DotNetBasics.csproj.CoreCompileInputs.cache
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\obj\Debug\DotNetBasics.exe
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DotNetBasics\obj\Debug\DotNetBasics.pdb

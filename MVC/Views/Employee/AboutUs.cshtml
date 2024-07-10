@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@*
+    using models in views
+*@
+@using MVC.Models;
+@{
+}
+<h1>This is about us view of Employee AboutUs Controller</h1>
+
+<table>
+    <tr>
+        <th>id</th>
+        <th>name</th>
+        <th>department</th>
+        <th>salary</th>
+    </tr>
+    <tr>
+        <td>@Model.Id</td>
+        <td>@Model.Name</td>
+        <td>@Model.Department</td>
+        <td>@Model.Salary</td>
+    </tr>
+</table>

@@ -1,0 +1,7 @@
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.AssemblyReference.cache
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+D:\CSIT\PRIME\6th SEM Notes\DotNet\Programs\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
